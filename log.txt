@@ -17,3 +17,110 @@ Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 
 ---------------------------------------------------
 
+Invalid Instruction
+Invalid Instruction
+
+---------------------------------------------------
+
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+---------------------------------------------------
+
+Invalid Instruction
+
+---------------------------------------------------
+
+Title: The Shawshank Redemption
+Release Year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 91%
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+
+---------------------------------------------------
+
+Invalid Instruction
+
+---------------------------------------------------
+
+Date: 10/11/2018
+Name: House of Blues Chicago
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/09/2018
+Name: Belly Up
+City: Aspen
+Country: CO
+Country: United States
+
+---------------------------------------------------
+
+Invalid Instruction
+Invalid Instruction
+
+---------------------------------------------------
+
+Title: The Shawshank Redemption
+Release Year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 91%
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+
+---------------------------------------------------
+
+Invalid Instruction
+
+---------------------------------------------------
+
+Title: The Avengers
+Release Year: 2012
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 92%
+Country: USA
+Language: English, Russian, Hindi
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+
+---------------------------------------------------
+
+Invalid Instruction
+Invalid Instruction
+
+---------------------------------------------------
+
+Artist: G-Eazy
+Song: Everything Will Be OK
+Preview: https://p.scdn.co/mp3-preview/5a09f5390e2862af1687f3671db3d6f84a813a45?cid=debcbd7faaab4c72a935660e215b2d35
+Album: When It's Dark Out
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=debcbd7faaab4c72a935660e215b2d35
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
