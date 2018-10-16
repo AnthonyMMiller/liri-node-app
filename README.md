@@ -36,6 +36,8 @@ If the user doesn't type a movie in, the program will output data for the movie 
 *request package*  
 *doenv package*  
 *spotify key*  
+*bands in town key*
+*OMDB key*
 
 ## Video:
 https://youtu.be/-ZyYKLj7ONY  
