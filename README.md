@@ -32,11 +32,12 @@ If the user doesn't type a movie in, the program will output data for the movie 
 ### do-what-it-says (searches from .txt file)
 
 ## Requirements:
-*NODE 
-*request package
-*doenv package
-*spotify key
+*NODE*   
+*request package*  
+*doenv package*  
+*spotify key*  
 
-## Video
+## Video:
+https://youtu.be/-ZyYKLj7ONY  
+![video example](https://user-images.githubusercontent.com/39473837/46988991-04e8fe80-d0b0-11e8-85d2-f1c2a960a441.gif)
 
-https://youtu.be/-ZyYKLj7ONY
