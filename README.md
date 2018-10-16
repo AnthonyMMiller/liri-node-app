@@ -30,3 +30,13 @@ This will output the following information to your terminal/bash window:
 If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
 ### do-what-it-says (searches from .txt file)
+
+## Requirements:
+*NODE 
+*request package
+*doenv package
+*spotify key
+
+## Video
+
+https://youtu.be/-ZyYKLj7ONY
